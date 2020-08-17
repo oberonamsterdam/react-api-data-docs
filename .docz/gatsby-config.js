@@ -19,7 +19,7 @@ const config = {
   pathPrefix: '/',
 
   siteMetadata: {
-    title: 'Docz Example Typescript',
+    title: 'React Api Data',
     description: 'My awesome app using docz',
   },
   plugins: [
@@ -53,8 +53,7 @@ const config = {
         o: null,
         open: null,
         'open-browser': null,
-        root:
-          '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz',
+        root: '/Users/macbook/Documents/react-api-data-docs/.docz',
         base: '/',
         source: './',
         'gatsby-root': null,
@@ -66,45 +65,40 @@ const config = {
         eb: 'master',
         'edit-branch': 'master',
         config: '',
-        title: 'Docz Example Typescript',
+        title: 'React Api Data',
         description: 'My awesome app using docz',
         host: 'localhost',
-        port: 3000,
+        port: 3001,
         p: 3000,
         separator: '-',
         paths: {
-          root:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs',
+          root: '/Users/macbook/Documents/react-api-data-docs',
           templates:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/node_modules/docz-core/dist/templates',
-          docz:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz',
-          cache:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/.cache',
-          app:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app',
+            '/Users/macbook/Documents/react-api-data-docs/node_modules/docz-core/dist/templates',
+          docz: '/Users/macbook/Documents/react-api-data-docs/.docz',
+          cache: '/Users/macbook/Documents/react-api-data-docs/.docz/.cache',
+          app: '/Users/macbook/Documents/react-api-data-docs/.docz/app',
           appPackageJson:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/package.json',
+            '/Users/macbook/Documents/react-api-data-docs/package.json',
           appTsConfig:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/tsconfig.json',
+            '/Users/macbook/Documents/react-api-data-docs/tsconfig.json',
           gatsbyConfig:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/gatsby-config.js',
+            '/Users/macbook/Documents/react-api-data-docs/gatsby-config.js',
           gatsbyBrowser:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/gatsby-browser.js',
+            '/Users/macbook/Documents/react-api-data-docs/gatsby-browser.js',
           gatsbyNode:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/gatsby-node.js',
+            '/Users/macbook/Documents/react-api-data-docs/gatsby-node.js',
           gatsbySSR:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/gatsby-ssr.js',
+            '/Users/macbook/Documents/react-api-data-docs/gatsby-ssr.js',
           importsJs:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app/imports.js',
+            '/Users/macbook/Documents/react-api-data-docs/.docz/app/imports.js',
           rootJs:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app/root.jsx',
+            '/Users/macbook/Documents/react-api-data-docs/.docz/app/root.jsx',
           indexJs:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app/index.jsx',
+            '/Users/macbook/Documents/react-api-data-docs/.docz/app/index.jsx',
           indexHtml:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app/index.html',
-          db:
-            '/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/.docz/app/db.json',
+            '/Users/macbook/Documents/react-api-data-docs/.docz/app/index.html',
+          db: '/Users/macbook/Documents/react-api-data-docs/.docz/app/db.json',
         },
       },
     },

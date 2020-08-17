@@ -1,6 +1,6 @@
 {
   "config": {
-    "title": "Docz Example Typescript",
+    "title": "React Api Data",
     "description": "My awesome app using docz",
     "menu": [],
     "version": "2.0.0-rc.41",
@@ -18,7 +18,7 @@
         "route": "/api",
         "id": "473b58525bac20b448448eb18cd86598",
         "filepath": "src/api.mdx",
-        "fullpath": "/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/src/api.mdx",
+        "fullpath": "/Users/macbook/Documents/react-api-data-docs/src/api.mdx",
         "link": "",
         "hidden": false,
         "slug": "src-api",
@@ -189,7 +189,7 @@
         "route": "/",
         "id": "6576455a124f9aaefd860597f03a8fe4",
         "filepath": "src/index.mdx",
-        "fullpath": "/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/src/index.mdx",
+        "fullpath": "/Users/macbook/Documents/react-api-data-docs/src/index.mdx",
         "link": "",
         "hidden": false,
         "slug": "src-index",
@@ -284,5 +284,17 @@
       }
     }
   ],
-  "props": []
+  "props": [
+    {
+      "key": ".docz/src/pages/404.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "NotFound",
+          "methods": [],
+          "actualName": "NotFound"
+        }
+      ]
+    }
+  ]
 }

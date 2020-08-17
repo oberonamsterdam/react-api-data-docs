@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/node_modules/gatsby-theme-docz/src/base/Layout.js"}},
+      plugin: require('/Users/macbook/Documents/react-api-data-docs/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"/Users/macbook/Documents/react-api-data-docs/node_modules/gatsby-theme-docz/src/base/Layout.js"}},
     },{
-      plugin: require('/Users/jessevanderheijden/Documents/projecten/react-api-data-docs/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
+      plugin: require('/Users/macbook/Documents/react-api-data-docs/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
