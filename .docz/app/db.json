@@ -1,7 +1,7 @@
 {
   "config": {
     "title": "React Api Data",
-    "description": "My awesome app using docz",
+    "description": "Automate calling external APIs and handling response data. Supports any API with JSON responses. Uses Fetch for performing API requests, normalizr for handling response data and redux for storing data.",
     "menu": [],
     "version": "2.0.0-rc.41",
     "repository": null,
