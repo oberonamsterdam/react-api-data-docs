@@ -20,7 +20,7 @@ const config = {
 
   siteMetadata: {
     title: 'React Api Data',
-    description: 'My awesome app using docz',
+    description: 'Automate calling external APIs and handling response data for React apps.',
   },
   plugins: [
     {
@@ -66,7 +66,7 @@ const config = {
         'edit-branch': 'master',
         config: '',
         title: 'React Api Data',
-        description: 'My awesome app using docz',
+        description: 'Automate calling external APIs and handling response data for React apps.',
         host: 'localhost',
         port: 3001,
         p: 3000,
